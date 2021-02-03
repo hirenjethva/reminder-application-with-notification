@@ -4,7 +4,9 @@ the motive of creating a application like this is to be in schedule and also in 
 # This helps to improve productivity
 i created this project using my knowledge in python feel free to add your own modification.
 
-# win10toast 
+# in this project i hva used main library called win10toast 
+this help us to get notification on screen like a popup
+
 here for alarm sound i have used *winsound* for beep.
 
 
